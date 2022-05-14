@@ -7,3 +7,4 @@
 # Editor-based HTTP Client requests
 /httpRequests/
 /REACT/01-simpleCase-my-app
+.DS_Store
