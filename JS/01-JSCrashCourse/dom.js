@@ -61,7 +61,6 @@ function onSubmit(e) {
     // alert('Please enter all fields');
     msg.classList.add("error");
     msg.innerHTML = "Please enter all fields";
-
     // Remove error after 3 seconds
     setTimeout(() => msg.remove(), 3000);
   } else {
